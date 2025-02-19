@@ -17,11 +17,11 @@ Education
 
 Work experience: academia
 ======
-LSE Fellow in Public Policy, London School of Economics and Political Science, School of Public Policy (from 2023 - until now) 
-Teaching Fellow (part-time), London School of Economics and Political Science, School of Public Policy (January 2023 - September 2023) 
-Sessional Hourly Paid Tutor (part-time), Royal Holloway, University of London (2019-2022)
-Postgraduate Teaching Assistant (part-time), University College London, School of Slavonic and East European Studies (2020-2021)
-Research assistant (part-time), University of Strathclyde, project "Out of touch and out of time?” (summer, 2021)
+* LSE Fellow in Public Policy, London School of Economics and Political Science, School of Public Policy (from 2023 - until now) 
+* Teaching Fellow (part-time), London School of Economics and Political Science, School of Public Policy (January 2023 - September 2023) 
+* Sessional Hourly Paid Tutor (part-time), Royal Holloway, University of London (2019-2022)
+* Postgraduate Teaching Assistant (part-time), University College London, School of Slavonic and East European Studies (2020-2021)
+* Research assistant (part-time), University of Strathclyde, project "Out of touch and out of time?” (summer, 2021)
 
   
 Skills
