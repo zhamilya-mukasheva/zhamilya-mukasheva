@@ -21,7 +21,7 @@ Work experience: Academic work
   * London School of Economics and Political Science, School of Public Policy
   * Duties includes: Working on consolidating my PhD thesis through developing research articles for publication. Delivered seminars and curated development of applied policy projects for our Master of Public Policy programme, supervised master's dissertations and applied public policy projects by students. Designed and delivered sessions on research methods and narrowing down the research topic for students.
 
-*September 2023 - September 2024: Academic Visitor
+* September 2023 - September 2024: Academic Visitor
   * Royal Holloway, University of London
   
 
@@ -89,6 +89,18 @@ Administrative experience
 * Member of the Student Experience Taskforce, Department of Politics and International Relations, Royal Holloway, University of London (2022)
 * Representative of Sessional Hourly Paid Tutors, Department of Politics and International Relations, Royal Holloway, University of London (2021)
 * Administrative Assistant, Department of Politics and International Relations, Royal Holloway, University of London (2018-2019)
+
+
+Applied policy work
+======
+
+* 2017 – 2022, part-time after 2018: Assistant Project Manager
+  * “BISAM Central Asia”, social and marketing research company in Almaty, Kazakhstan
+  * Duties included: Assisted the survey team in survey drafting, preparation of sample design, survey pretesting, training of interviewers, and survey data quality control; produced analytical reports based on secondary data, review of relevant academic literature, and analysis of survey and qualitative interview data; presented reports to clients
+
+* 2017 – 2018, Research Fellow
+  * Soros Foundation-Kazakhstan, “Public Policy” Initiative
+  * Duties included: Leader of a policy research project on the effect of education reform in Kazakhstan
 
 
 
