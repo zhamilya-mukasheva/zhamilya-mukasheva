@@ -16,17 +16,17 @@ In my ongoing research, I examine other areas of higher education politics and p
 
 
 
-### Publications
+## My research
 
-#### Peer-reviewed articles
+### Peer-reviewed articles
 * Mukasheva, Zhamilya, Sofia Collignon, and Ursula Hackett. ‘Electoral Accountability for Rising Tuition in the US: Evidence from a Survey Experiment and Observational Data’. The Journal of Higher Education 95, no. 6 (18 September 2024): 800–823. https://doi.org/10.1080/00221546.2023.2266354.
 
-#### Work in progress
+### Work in progress
 * Ideology and Adoption of Tuition Fees and Financial Aid Policies in Higher Education in OECD Countries (working paper)
 * Down With the Choice? Policies and Politics of Managing University Degree Choice in OECD Countries (working paper)
 * Policy Feedback and Sustainability in Higher Education: What Constitutes Self-Undermining and Self-Sustaining Feedback Effects? (working paper)
 
-#### Conference proceedings
+### Conference proceedings
 * 22nd ESPAnet Annual Conference, Politics of Education section, “Ideology and Adoption of Tuition Fees and Financial Aid Policies in Higher Education in OECD Countries” (2024)
 * Education Politics and Policy Virtual Conference, Higher Education in an American and Comparative Perspective section, “Ideology and Adoption of Tuition Fees and Financial Aid Policies in Higher Education in OECD Countries” (2024)
 * ECPR Joint Sessions "The Politics and Policies of Skills Shortage”, “Down With the Choice? Policies and Politics of Managing University Degree Choice in OECD Countries,” (2024)
