@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Dr Zhamilya Mukasheva"
+title                    : "Zhamilya Mukasheva"
 title_separator          : "-"
 name                     : &name "Zhamilya Mukasheva"
 description              : &description "LSE Fellow in Public Policy"
