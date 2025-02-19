@@ -21,10 +21,10 @@ I am an [Associate Fellow of the Higher Education Academy (2020)](https://www.ad
 * Essay clinics
     * 'Essay clinics' are seminars designed to help students with essay writing. I designed these sessions, delivered them, and helped students with their essay-related questions. 
 * CR2011 – Research Methods for Social Scientists 
-    - In this course, I worked on workshops, where I helped students with using NVivo for qualitative research methods.
+    * In this course, I worked on workshops, where I helped students with using NVivo for qualitative research methods.
 
 ### University College London, School of Slavonic and East European Studies 
 * SESS0033: [Comparative Political Analysis](https://www.ucl.ac.uk/module-catalogue/modules/comparative-political-analysis/SESS0033)
-    This module introduces the core ideas and methods of comparative politics. It focuses on the comparison of post-communist states and the differences between the region and other parts of the world (Western Europe, Africa, Latin America). In this module, I designed and delivered seminars and marked written coursework.
+    * This module introduces the core ideas and methods of comparative politics. It focuses on the comparison of post-communist states and the differences between the region and other parts of the world (Western Europe, Africa, Latin America). In this module, I designed and delivered seminars and marked written coursework.
 
 
