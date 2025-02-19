@@ -57,16 +57,16 @@ Conferences
 Teaching
 ======
 * London School of Economics and Political Science, School of Public Policy 
-- PP405: Public Policy Applications (from January 2023)
+  * PP405: Public Policy Applications (from January 2023)
 
 * Royal Holloway, University of London,  Department of Politics and International Relations 
-- PR1000: Researching Politics and International Relations: Methods, Techniques and Analysis (2019 – 2022)
-- Essay clinics
-- CR2011 – Research Methods for Social Scientists 
+  * PR1000: Researching Politics and International Relations: Methods, Techniques and Analysis (2019 – 2022)
+  * Essay clinics
+  * CR2011 – Research Methods for Social Scientists 
 
 * University College London, School of Slavonic and East European Studies 
-- SESS0033: Comparative Political Analysis
-- Understanding and Analyzing Data (only marking)
+  * SESS0033: Comparative Political Analysis
+  * Understanding and Analyzing Data (only marking)
   
 Grants and Awards
 ======
