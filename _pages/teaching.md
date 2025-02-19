@@ -11,24 +11,22 @@ I am an Associate Fellow of the Higher Education Academy (2020), and working tow
 
 
 
-## London School of Economics and Political Science, School of Public Policy 
-- PP405: Public Policy Applications (from January 2023)
-    - Course description: https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/PP/2023_PP405.htm
-    - This core course introduces students to the application of social science literatures to current and important policy issues with significance for developed and developing countries. In this course, I am responsible for leading seminars, marking, and supervision of applied public policy projects. I am also leading on curating applied public policy projects and support sessions for these projects, which both form an important part of the course. 
+### London School of Economics and Political Science, School of Public Policy 
+* PP405: Public Policy Applications (from January 2023)
+    * Course description: https://www.lse.ac.uk/resources/calendar2023-2024/courseGuides/PP/2023_PP405.htm
+    * This core course introduces students to the application of social science literatures to current and important policy issues with significance for developed and developing countries. In this course, I am responsible for leading seminars, marking, and supervision of applied public policy projects. I am also leading on curating applied public policy projects and support sessions for these projects, which both form an important part of the course. 
 
-## Royal Holloway, University of London,  Department of Politics and International Relations 
-- PR1000: Researching Politics and International Relations: Methods, Techniques and Analysis (2019 – 2022)
-    - This core course for first-year undergraduate students is designed to introduce students to qualitative research methods in Political Science and support them in developing their own research projects. In this course, I delivered two lectures on the module, led seminars, and provided feedback to written coursework. This module introduces the core ideas and methods of comparative politics. 
-- Essay clinics
-    - 'Essay clinics' are seminars designed to help students with essay writing. I designed these sessions, delivered them, and helped students with their essay-related questions. 
-- CR2011 – Research Methods for Social Scientists 
+### Royal Holloway, University of London,  Department of Politics and International Relations 
+* PR1000: Researching Politics and International Relations: Methods, Techniques and Analysis (2019 – 2022)
+    * This core course for first-year undergraduate students is designed to introduce students to qualitative research methods in Political Science and support them in developing their own research projects. In this course, I delivered two lectures on the module, led seminars, and provided feedback to written coursework. This module introduces the core ideas and methods of comparative politics. 
+* Essay clinics
+    * 'Essay clinics' are seminars designed to help students with essay writing. I designed these sessions, delivered them, and helped students with their essay-related questions. 
+* CR2011 – Research Methods for Social Scientists 
     - In this course, I worked on workshops, where I helped students with using NVivo for qualitative research methods.
 
-## University College London, School of Slavonic and East European Studies 
-- SESS0033: Comparative Political Analysis
+### University College London, School of Slavonic and East European Studies 
+* SESS0033: Comparative Political Analysis
     Course description: https://www.ucl.ac.uk/module-catalogue/modules/comparative-political-analysis/SESS0033
     This module introduces the core ideas and methods of comparative politics. It focuses on the comparison of post-communist states and the differences between the region and other parts of the world (Western Europe, Africa, Latin America). In this module, I designed and delivered seminars and marked written coursework.
-- Understanding and Analyzing Data
-    In this course, I was only responsible for marking.
 
 
