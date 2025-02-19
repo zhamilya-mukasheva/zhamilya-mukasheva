@@ -11,8 +11,8 @@ locale                   : "en-GB"
 title                    : "Dr Zhamilya Mukasheva"
 title_separator          : "-"
 name                     : &name "Zhamilya"
-description              : &description "LSE Fellow in Public Policy, London School of Economics and Political Science "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://zhamilya-mukasheva.github.io"
+description              : &description "LSE Fellow in Public Policy, London School of Economics and Political Science"
+url                      : "https://zhamilya-mukasheva.github.io"
 baseurl                  : "" # the subpath of your site, e.g. ""
 repository               : "zhamilya-mukasheva.github.io"
 
@@ -21,22 +21,22 @@ repository               : "zhamilya-mukasheva.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "IMG_0036_Web2048.jpg"
+  name             : "Dr Zhamilya Mukasheva"
+  pronouns         : "she/her"  
+  bio              : "LSE Fellow in Public Policy, researching politics of higher education financial aid and tuition policies"
+  location         : "London, UK"
+  employer         : "London School of Economics and Political Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hYid2bwAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4562-6272"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "zhamilya-mukasheva"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "https://bsky.app/profile/zhamilya-m.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/zhamilya-mukasheva-a3039b133/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
