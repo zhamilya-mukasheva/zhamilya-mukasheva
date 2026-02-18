@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I am an LSE Fellow in Public Policy at the London School of Economics and Political Science. My research focuses on comparative politics and policy of higher education, in particular political factors behind introduction of tuition fees and financial assistance, public responsiveness to higher education policies, and impacts of financial aid and student number restrictions on match between higher education offer and market demand. I completed a PhD in Political Science in February 2023 at Royal Holloway, University of London. The project was co-supervised by Dr Ursula Hackett (Royal Holloway) and Dr Sofía Collignon (Royal Holloway). My PhD thesis, “The Politics of Cost-sharing in Higher Education in OECD Countries” has won Best Dissertation Award by the American Political Science Association's Education Politics & Policy section in 2024. 
+I am an LSE Fellow in Public Policy at the London School of Economics and Political Science. My research focuses on comparative politics and policy of higher education, in particular political factors behind introduction of tuition fees and financial assistance, public responsiveness to higher education policies, and impacts of financial aid and student number restrictions on match between higher education offer and market demand. I completed a PhD in Political Science in 2023 at Royal Holloway, University of London. The project was co-supervised by Dr Ursula Hackett (Royal Holloway) and Dr Sofía Collignon (Royal Holloway). My PhD thesis, “The Politics of Cost-sharing in Higher Education in OECD Countries” has won Best Dissertation Award by the American Political Science Association's Education Politics & Policy section in 2024. 
 
 
 ### Policy work
